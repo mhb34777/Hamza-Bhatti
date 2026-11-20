@@ -17,7 +17,7 @@ const signatureFont = Caveat({
 export const metadata: Metadata = {
   title: "Hamza Bhatti | Professional Video Editor",
   description:
-    "Professional video editor with 5 years of experience creating cinematic, branded, and social-first content.",
+    "Professional video editor with 5 + years of experience creating cinematic, branded, and social-first content.",
   keywords: [
     "video editor",
     "professional video editor",
